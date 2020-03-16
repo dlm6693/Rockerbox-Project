@@ -10,7 +10,7 @@
 * These differences mean that each channel type has a higher likelihood of being at some point in the marketing journey than others (for example direct mail is much more likely to be a last touch than first).
 
 ## Question 2
-a) Below is a chart of average time to convert after interating with each channel:
+a) Below is a chart of average time to convert after interacting with each channel:
 
 ![](Plots/avg_time_by_channel.png)
 b/c) The most common paths are single touch points, but excluding those the most common is two direct mails. For more details, see the notebook.
