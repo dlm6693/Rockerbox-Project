@@ -12,7 +12,7 @@
 ## Question 2
 a) Below is a chart of average time to convert after interating with each channel:
 
-![](Plots/avg_time_by_channel.PNG)
+![](Plots/avg_time_by_channel.png)
 b/c) The most common paths are single touch points, but excluding those the most common is two direct mails. For more details, see the notebook.
 
 ## Question 3
